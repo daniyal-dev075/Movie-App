@@ -49,7 +49,7 @@ Tested via `https://reqres.in/api/login`
 
 Check out the demo of **FilmyINFO** on LinkedIn:
 
-🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/muhammad-daniyal-086228178_flutterdev-dartlang-mobileappdevelopment-activity-7326645860686000129-xZwc?utm_source=share&utm_medium=member_android&rcm=ACoAACoJMGYBTBbcC6HtuJ7wYAPaik5v8ufNqG8)
+🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/muhammad-daniyal-b11942366_flutterdev-dartlang-mobileappdevelopment-activity-7330579735497822209-0u2_?utm_source=share&utm_medium=member_android&rcm=ACoAAFroY70Bsc4WEY_PzNwsOjcoGkIDPhjNaCY)
 
 > *(Click the link above to see the app in action — includes UI, login, and movie fetching features!)*
 
